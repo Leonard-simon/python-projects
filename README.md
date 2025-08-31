@@ -1,1 +1,1 @@
-# python-projects
+practice and tracking progress keeps the mind awake and intentional 
